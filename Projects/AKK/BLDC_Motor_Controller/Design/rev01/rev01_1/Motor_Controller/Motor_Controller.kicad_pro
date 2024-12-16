@@ -449,7 +449,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AKK Electronics_Templates.kicad_pro",
+    "filename": "Motor_Controller.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -626,6 +626,46 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       "Root"
+    ],
+    [
+      "7e850e91-0aa3-479b-9cf7-d624ea82d410",
+      "[01] BLOCK DIAGRAM"
+    ],
+    [
+      "0ee3d4d5-e3d4-4a4c-8d76-6654960bf0fd",
+      "[02] INPUT PROTECTION"
+    ],
+    [
+      "738c0d4c-d801-4563-96b2-3ac0131576eb",
+      "[03] STEP DOWN"
+    ],
+    [
+      "00e52d7c-db6d-4304-85f9-7f2fddcd2d64",
+      "[04] MCU"
+    ],
+    [
+      "a4fdf17d-f794-44a0-9416-2be0f8e087f9",
+      "[05] MOSFET DRIVER"
+    ],
+    [
+      "82f18823-33f3-420d-bde8-b364b0066a77",
+      "[06] MOSFETS"
+    ],
+    [
+      "98dec30f-35fa-4446-b563-860f1c86a427",
+      "[07] CAN"
+    ],
+    [
+      "f9f451df-490b-43cd-9dfb-df7b50e4c214",
+      "[08] FILTERS"
+    ],
+    [
+      "c7947707-501a-4207-b896-408090f8692f",
+      "[09] USB"
+    ],
+    [
+      "e5ffb6bb-a4a0-431a-994a-ea10a9aefdd1",
+      "[10] MECHANICAL"
     ]
   ],
   "text_variables": {}

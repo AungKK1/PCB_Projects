@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "01053228-610a-4e53-937d-5ea8748f5aec")
+	(paper "A4")
+	(title_block
+		(title "Example Project")
+		(date "2024-12-16")
+		(rev "Rev01_1")
+		(company "AKK Electronics")
+		(comment 3 "aungkyawkhaing96.ece@gmail.com")
+		(comment 4 "Aung Kyaw Khaing")
+	)
+	(lib_symbols)
+)

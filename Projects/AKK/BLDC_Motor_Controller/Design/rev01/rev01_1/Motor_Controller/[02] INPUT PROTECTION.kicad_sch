@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d5be1dda-3ac0-4e9f-aa99-631d82b571ab")
+	(paper "A4")
+	(title_block
+		(title "Example Project")
+		(date "2024-12-16")
+		(rev "Rev01_1")
+		(company "AKK Electronics")
+		(comment 3 "aungkyawkhaing96.ece@gmail.com")
+		(comment 4 "Aung Kyaw Khaing")
+	)
+	(lib_symbols)
+	(text "[02] INPUT PROTECTION"
+		(exclude_from_sim no)
+		(at 135.382 20.066 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 1.6)
+				(bold yes)
+			)
+		)
+		(uuid "6e1c8f2d-c7a0-48a5-8957-dd89fa5367ca")
+	)
+)
