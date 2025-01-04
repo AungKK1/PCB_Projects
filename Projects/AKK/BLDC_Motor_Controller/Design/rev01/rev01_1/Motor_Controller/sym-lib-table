@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV8302")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/Driver/DRV8302_symbol_dir/DRV8302_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60PW")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/Single_Libraries/XT60PW-M/XT60PW-M.kicad_sym")(options "")(descr ""))
+  (lib (name "XH-2PWBPZ")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/Connector/XH_2PWBPZ/XH-2PWBPZ_symbol_dir/CONN_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "LKMI2501K821MF")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/Bulk_Caps/LKMI2501K821MF_symbol_dir/LKMI2501K821MF_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "HSBA15810C")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/Mosfet/HSBA15810C_symbol_dir/HSBA15810C_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "Conn_1x4")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/Connector/Conn1x4/Conn1x4_symbol_dir/Conn1x4_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "ESDCAN24-2BLY")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/TVS_Diode/ESDCAN24-2BLY_symbol_dir/ESDCAN24-2BLY_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "Line_Filter")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/Line_Filter/744227S_symbol_dir/744227S_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "Conn_1x6")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/Connector/Conn1x6/Conn1x6_symbol_dir/Conn1x6_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "PUSB3AB6Z")(type "KiCad")(uri "E:/PCB_Projects_GitHub/PCB_Projects/Resources/Libraries/KiCAD/JLC2KiCad_lib-master/PUSB3AB6Z/PUSB3AB6Z_symbol_dir/PUSB3AB6Z_symbol_lib.kicad_sym")(options "")(descr ""))
+)
